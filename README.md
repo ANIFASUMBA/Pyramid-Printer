@@ -1,1 +1,2 @@
-This is a  simple page that I created about myself using html language.
+This is a  simple java program that uses a moveable build platform to create objects with a pyramid shape
+It's a type of 3D printer.
